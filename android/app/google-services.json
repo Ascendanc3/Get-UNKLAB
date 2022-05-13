@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "311341698948",
+    "project_id": "unklab-go",
+    "storage_bucket": "unklab-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311341698948:android:83e5ff3b4953a4420dd7d1",
+        "android_client_info": {
+          "package_name": "com.ascendanc3.getunklab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311341698948-00in2cqqhoden7r5ifpldi2cnvsjsqj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ascendanc3.getunklab",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "311341698948-u80qe9ihnorp92hgfujebas1gmhtmg26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjE9fAElKa_-ayd_J-izs7Z4QzjBttd-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311341698948-u80qe9ihnorp92hgfujebas1gmhtmg26.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311341698948-7tt63c66911km2td4pfof6cm6h67sk2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ascendanc3.getunklab"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311341698948:android:c4bb71f8ceed8a710dd7d1",
+        "android_client_info": {
+          "package_name": "com.ascendanc3.mobileprogrammingloginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311341698948-on3h965aitk2kqj33sv4plrtuc3fvpu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ascendanc3.mobileprogrammingloginfirebase",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "311341698948-u80qe9ihnorp92hgfujebas1gmhtmg26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjE9fAElKa_-ayd_J-izs7Z4QzjBttd-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311341698948-u80qe9ihnorp92hgfujebas1gmhtmg26.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311341698948-7tt63c66911km2td4pfof6cm6h67sk2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ascendanc3.getunklab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

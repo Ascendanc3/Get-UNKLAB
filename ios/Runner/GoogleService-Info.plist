@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>311341698948-7tt63c66911km2td4pfof6cm6h67sk2e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.311341698948-7tt63c66911km2td4pfof6cm6h67sk2e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>311341698948-00in2cqqhoden7r5ifpldi2cnvsjsqj5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAUlscocyI9Q6GVrP2XyCIF2ZxpOYzJFOc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>311341698948</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ascendanc3.getunklab</string>
+	<key>PROJECT_ID</key>
+	<string>unklab-go</string>
+	<key>STORAGE_BUCKET</key>
+	<string>unklab-go.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:311341698948:ios:f92a6b3ee797dbde0dd7d1</string>
+</dict>
+</plist>
